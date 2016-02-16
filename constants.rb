@@ -1,0 +1,12 @@
+WIDTH      = 5
+DEPTH      = 5
+LEFT       = 'LEFT'
+RIGHT      = 'RIGHT'
+NORTH      = 'NORTH'
+EAST       = 'EAST'
+SOUTH      = 'SOUTH'
+WEST       = 'WEST'
+PLACE      = 'PLACE'
+MOVE       = 'MOVE'
+REPORT     = 'REPORT'
+DIRECTIONS = [NORTH, EAST, SOUTH, WEST]
